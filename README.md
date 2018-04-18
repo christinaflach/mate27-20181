@@ -37,7 +37,7 @@ Como compartilhar? legislação sobre copyright, copyleft, common, licenças rec
 
 ## Bibliografia
 
-A ser indicada.
+- git - the simple guide: http://rogerdudler.github.io/git-guide/
 
 ## Avaliação
 + Seminários: Cada estudante apresentará um seminário relativo a um tema durante a disciplina. Os demais estudantes farão uma resenha sobre o seminário apresentado pelo(s) colega(s).
