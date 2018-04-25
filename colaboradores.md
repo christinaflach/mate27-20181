@@ -1,6 +1,6 @@
 # Colaboradores
 
-Nome                | Github User
-====                | ===========
+Nome | Github User
+---- | -----------
 Christina von Flach | christinaflach
-nome sobrenome      | seu githubuser
+nome sobrenome | seu githubuser
